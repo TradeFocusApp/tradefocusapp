@@ -1,16 +1,21 @@
-## Hi there 👋
+# TradeFocus
 
-<!--
-**TradeFocusApp/tradefocusapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TradeFocus turns your watchlist into a clear, actionable trade plan using AI.
 
-Here are some ideas to get you started:
+Supports both swing and intraday setups so you can focus on execution instead of guesswork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Try it
+https://tradefocus.streamlit.app/
+
+## What it does
+- Converts your watchlist into a structured Trade Plan
+- Ranks setups by strength and priority
+- Provides position sizing and risk/reward levels
+- Helps avoid overtrading by focusing on the best setups
+
+## Status
+Actively being developed and improved based on user feedback.
+
+---
+
+If you have feedback, feel free to reach out.
