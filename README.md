@@ -6,6 +6,7 @@ Supports both swing and intraday setups so you can focus on execution instead of
 
 ## 🚀 Try it
 https://tradefocus.streamlit.app/
+![TradeFocus Screenshot](tradefocusapp.png)
 
 ## What it does
 - Converts your watchlist into a structured Trade Plan
